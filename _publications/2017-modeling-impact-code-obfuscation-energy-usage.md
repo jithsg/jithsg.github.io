@@ -3,7 +3,7 @@ title: "[Modelling the Impact of Code Obfuscation on Energy Usage](https://ceur-
 collection: publications
 permalink: /publication/2017-modeling-impact-code-obfuscation-energy-usage
 excerpt: 'This study models the impact of code obfuscation algorithms on energy usage in embedded devices, analyzing the energy-security-performance trade-offs.'
-date: 2017
+date: 2017-01-01
 venue: 'DIAS/EDUDM@ ISEC'
 citation: 'Athul Raj, J Jithish, Sriram Sankaran. (2017). "Modelling the Impact of Code Obfuscation on Energy Usage." DIAS/EDUDM@ ISEC.'
 ---

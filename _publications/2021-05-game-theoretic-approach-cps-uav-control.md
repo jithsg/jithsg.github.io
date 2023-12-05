@@ -3,7 +3,7 @@ title: "[A game‐theoretic approach for ensuring trustworthiness in cyber‐phy
 collection: publications
 permalink: /publication/2021-05-game-theoretic-approach-cps-uav-control
 excerpt: 'This work presents an analytical framework based on noncooperative game theory to evaluate the trustworthiness of individual nodes in CPSs, with applications to multiloop UAV control.'
-date: 2021-05
+date: 2021-05-05
 venue: 'Transactions on Emerging Telecommunications Technologies'
 volume: '32'
 issue: '5'

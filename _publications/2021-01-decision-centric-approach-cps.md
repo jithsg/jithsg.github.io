@@ -3,7 +3,7 @@ title: "A Decision-centric approach for secure and energy-efficient cyber-physic
 collection: publications
 permalink: /publication/2021-01-decision-centric-approach-cps
 excerpt: 'This paper discusses a novel approach for balancing energy efficiency and security in Cyber-Physical Systems (CPSs), focusing on dynamic security mechanisms activated during cyberattacks.'
-date: 2021
+date: 2021-01-01
 venue: 'Journal of Ambient Intelligence and Humanized Computing'
 volume: '12'
 pages: '417-441'

@@ -3,7 +3,7 @@ title: "[A Hybrid Adaptive Rule based System for Smart Home Energy Prediction](h
 collection: publications
 permalink: /publication/2017-hybrid-adaptive-rule-based-system-smart-home-energy
 excerpt: 'This study presents a hybrid intelligent system integrating neural networks and fuzzy systems for predicting daily electricity demand in smart homes.'
-date: 2017
+date: 2017-01-01
 venue: 'DIAS/EDUDM@ ISEC'
 citation: 'J Jithish, Sriram Sankaran. (2017). "A Hybrid Adaptive Rule based System for Smart Home Energy Prediction." DIAS/EDUDM@ ISEC.'
 ---
