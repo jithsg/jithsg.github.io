@@ -1,5 +1,5 @@
 ---
-title: "A Decision-centric approach for secure and energy-efficient cyber-physical systems"
+title: "[A Decision-centric approach for secure and energy-efficient cyber-physical systems](https://link.springer.com/article/10.1007/s12652-020-01995-z)"
 collection: publications
 permalink: /publication/2021-01-decision-centric-approach-cps
 excerpt: 'This paper discusses a novel approach for balancing energy efficiency and security in Cyber-Physical Systems (CPSs), focusing on dynamic security mechanisms activated during cyberattacks.'
