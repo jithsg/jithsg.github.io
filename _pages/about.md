@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# I'm Jithish, Ph.D., Member, IEEE
+
 
  I'm Jithish, an enthusiastic researcher and engineer passionate about the intersection of technology and innovation. Currently, I'm exploring new frontiers in technology as a Research Fellow at the Singapore University of Technology and Design (SUTD).
 
